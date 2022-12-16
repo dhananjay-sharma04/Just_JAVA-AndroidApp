@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">બસ જાવા</string>
+    <string name="hint">તમારું નામ દાખલ કરો</string>
+    <string name="topping">ટોપિંગ્સ</string>
+    <string name="whipped_cream">ચાબૂક મારી ક્રીમ</string>
+    <string name="chocolate_cream">ચોકલેટ ક્રીમ</string>
+    <string name="quantity">જથ્થો</string>
+    <string name="order_summary">ઓર્ડર સારાંશ</string>
+    <string name="thanku">આભાર</string>
+    <string name="order">ઓર્ડર</string>
+</resources>

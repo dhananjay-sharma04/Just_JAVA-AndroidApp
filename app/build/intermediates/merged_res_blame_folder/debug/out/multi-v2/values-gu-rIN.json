@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.justjava.app-mergeDebugResources-27:/values-gu-rIN/values-gu-rIN.xml",
+            "map": [
+                {
+                    "source": "E:\\Android Developement\\JustJava\\app\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "-1,6,-1,10,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,263,-1,462,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,56,-1,39,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,315,-1,497,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,157,210,250,305,348,388,433",
+                        "endColumns": "44,56,52,39,54,42,39,44,58",
+                        "endOffsets": "95,152,205,245,300,343,383,428,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Dhananjay Sharma\\.gradle\\daemon\\7.4\\com.example.justjava.app-mergeDebugResources-27:\\values-gu-rIN\\values-gu-rIN.xml",
+            "map": [
+                {
+                    "source": "E:\\Android Developement\\JustJava\\app\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,149,103",
+                        "endColumns": "44,39,44",
+                        "endOffsets": "97,184,143"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,140",
+                        "endColumns": "44,39,44",
+                        "endOffsets": "95,135,180"
+                    }
+                }
+            ]
+        }
+    ]
+}
